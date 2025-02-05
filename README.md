@@ -10,6 +10,14 @@ Pronouns: he/him 4ever
 Fun Fact: no
 ```
 
+## languages i can code in
+
+```
+python
+batch
+html
+```
+
 <!--
 **venom-kitty/venom-kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
